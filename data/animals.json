@@ -127,6 +127,15 @@
         "thirsty"
       ],
       "id": "12"
+    },
+    {
+      "name": "aaa",
+      "species": "aaa",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
