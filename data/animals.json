@@ -136,6 +136,15 @@
         "loving"
       ],
       "id": "13"
+    },
+    {
+      "name": "saa",
+      "species": "aaa",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "14"
     }
   ]
 }
